@@ -1,0 +1,1 @@
+This project aims to be an object oriented python library for the Brightkite web application. Interaction with the library should have a clean and semantic interface that mimics the business objects and methods available Brightkite.
